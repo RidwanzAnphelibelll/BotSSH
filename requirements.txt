@@ -1,3 +1,2 @@
-telethon
 requests
-pillow
+telethon
