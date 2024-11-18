@@ -1,2 +1,2 @@
-requests
-telethon
+telethon==1.24.0
+requests==2.32.3
